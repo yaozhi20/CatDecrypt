@@ -1,0 +1,5 @@
+files_set:
+    name : 'set1'
+    base_dir : '/path/to/your/dir/' # 后面必须加/结尾
+    files:
+        - aaa.zip.jenc
